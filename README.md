@@ -4,5 +4,5 @@
 
 Sources
 --
-[Decky loader](https://github.com/SteamDeckHomebrew/decky-loader)
+[Decky loader](https://github.com/SteamDeckHomebrew/decky-loader)   
 [Installing Genymotion to steam deck by u/mvarns](https://www.reddit.com/r/SteamDeck/comments/yjwkka/i_got_an_android_emulator_working_on_steamos/)
